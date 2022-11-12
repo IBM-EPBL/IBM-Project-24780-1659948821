@@ -1,4 +1,4 @@
-![alt text]([https://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-IBM-Logo-PNG-Transparent.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEGhmGw4R86ei-WkarD6QzEj4pe0qPpvxYaFBMkiDx75tFXGCaK1IhL0S9kfdJvKueHc&usqp=CAU))
+![alt text](https://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-IBM-Logo-PNG-Transparent.png)
 # IBM
 ## A Novel Method for Handwritten Digit Recognition System
 
