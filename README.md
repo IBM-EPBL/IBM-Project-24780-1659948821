@@ -1,2 +1,2 @@
-#IBM
-##A Novel Method for Handwritten Digit Recognition System
+# IBM
+## A Novel Method for Handwritten Digit Recognition System
