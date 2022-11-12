@@ -1,4 +1,4 @@
-![alt text](https://banner2.cleanpng.com/20171220/kke/ibm-logo-png-5a3a21ee2d6565.5546661515137592141861519.jpg)
+![alt text](https://banner2.cleanpng.com/20171216/709/ibm-logo-png-5a3554470fe060.574777771513444423065.jpg)
 # IBM
 ## A Novel Method for Handwritten Digit Recognition System
 
