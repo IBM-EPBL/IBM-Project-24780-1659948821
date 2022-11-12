@@ -1,4 +1,4 @@
-![alt text](https://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-IBM-Logo-PNG-Transparent.png)
+![alt text](https://banner2.cleanpng.com/20171220/kke/ibm-logo-png-5a3a21ee2d6565.5546661515137592141861519.jpg)
 # IBM
 ## A Novel Method for Handwritten Digit Recognition System
 
